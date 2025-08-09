@@ -1,6 +1,6 @@
 ![Header](./GIFs/banner1.gif)
 
-
+![Ocean Snake](dist/ocean.gif)
 <!-- Custom Language, Libraries and Tech Badges -->
 <div align="center" style="margin-top: 20px;">
 
@@ -184,3 +184,6 @@
   <p>Hi! I'm Avneesh Rai, a passionate developer skilled in C, C++, Python, Java, and web development technologies. I love building scalable applications and exploring new tech. Always excited to collaborate and learn more!</p>
 
 </div>
+
+
+
