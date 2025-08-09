@@ -1,4 +1,5 @@
 ![Header](./GIFs/banner1.gif)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avneeshrai07/langs)](https://githubtrends.io)
 
 <!-- Custom Language, Libraries and Tech Badges -->
 <div align="center" style="margin-top: 20px;">
