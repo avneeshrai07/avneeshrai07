@@ -91,7 +91,7 @@
 
   <!-- GitHub Stats Card with private repo info and real domain -->
   <a href="https://github.com/avneeshrai07" style="margin-right: 20px;">
-    <img height="180" src="https://avneeshgithub-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="avneeshrai07's GitHub stats" />
+    <img height="180" src="https://avneeshgithub-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="avneeshrai07's GitHub stats" />
   </a>
 
   <!-- GitHub Streak Stats -->
