@@ -1,10 +1,11 @@
 <!-- GitHub Stats and WakaTime stats side by side with dark theme and private repo info -->
 <div align="center">
 
-  <!-- GitHub Stats Card with private repo info -->
-  <a href="https://github.com/avneeshrai07">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="avneeshrai07's GitHub stats" />
-  </a>
+  <!-- GitHub Stats Card with private repo info and real domain -->
+<a href="https://github.com/avneeshrai07">
+  <img height="180" src="https://avneeshgithub-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="avneeshrai07's GitHub stats" />
+</a>
+
 
   <!-- WakaTime Stats Card -->
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=avneeshrai07)](https://wakatime.com/@avneeshrai07)
