@@ -1,3 +1,6 @@
+![Header](./GIFs/banner1.gif)
+
+
 <h1 align="center">Hi 👋, I'm Avneesh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -25,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&locale=en" alt="avneeshrai07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshrai07&" alt="harsh9539" /></p>
+
+
