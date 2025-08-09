@@ -1,24 +1,4 @@
-<!-- GitHub Stats and WakaTime stats side by side with dark theme and private repo info -->
-<div align="center">
-
-  <!-- GitHub Stats Card with private repo info and real domain -->
-<a href="https://github.com/avneeshrai07">
-  <img height="180" src="https://avneeshgithub-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="avneeshrai07's GitHub stats" />
-</a>
-
-
-  <!-- WakaTime Stats Card -->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=avneeshrai07)](https://wakatime.com/@avneeshrai07)
-</div>
-
-<!-- Top Languages Card showing compact layout -->
-<div align="center" style="margin-top: 20px;">
-
-  <a href="https://github.com/avneeshrai07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneeshrai07&theme=dark&hide_border=true&layout=compact&langs_count=8&custom_title=Top%20Languages" alt="avneeshrai07's Top Languages" />
-  </a>
-
-</div>
+![Header](./GIFs/banner1.gif)
 
 <!-- Custom Language, Libraries and Tech Badges -->
 <div align="center" style="margin-top: 20px;">
@@ -103,6 +83,34 @@
 
 </div>
 
+
+
+
+<div align="center">
+
+  <!-- GitHub Stats Card with private repo info and real domain -->
+  <a href="https://github.com/avneeshrai07" style="margin-right: 20px;">
+    <img height="180" src="https://avneeshgithub-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="avneeshrai07's GitHub stats" />
+  </a>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/avneeshrai07">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshrai07&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+
+<!-- Top Languages Card showing compact layout -->
+<div align="center" style="margin-top: 20px;">
+
+  <a href="https://github.com/avneeshrai07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneeshrai07&theme=dark&hide_border=true&layout=compact&langs_count=8&custom_title=Top%20Languages" alt="avneeshrai07's Top Languages" />
+  </a>
+
+</div>
+
+
 <!-- Additional Profile Enhancements -->
 
 <div align="center" style="margin-top: 20px;">
@@ -116,7 +124,7 @@
 
   <!-- Streak Stats -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshrai07&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
 
   <!-- Contribution Calendar -->
   <br/>
