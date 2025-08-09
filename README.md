@@ -1,1 +1,1 @@
-![Header](./GIFs/github-header-banner.png)
+![Header](./GIFs/banner1.gif)
