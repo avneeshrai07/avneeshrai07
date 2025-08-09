@@ -1,5 +1,7 @@
 ![Header](./GIFs/banner1.gif)
 
+![GitHub Stats](https://github-readme-stats-avneeshrai07s-projects.vercel.app/api?username=avneeshrai07&show_icons=true&count_private=true)
+
 
 <h1 align="center">Hi 👋, I'm Avneesh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
