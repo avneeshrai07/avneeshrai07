@@ -1,5 +1,6 @@
 ![Header](./GIFs/banner1.gif)
-
+Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> I am Avneesh.
+<br>
 ![Ocean Snake](dist/ocean.gif)
 <!-- Custom Language, Libraries and Tech Badges -->
 <div align="center" style="margin-top: 20px;">
