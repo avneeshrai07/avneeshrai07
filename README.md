@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="./GIFs/banner1.gif" alt="Header" width="100%" />
+  <img src="./GIFs/Hi I’m.pngf" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">Hello 🙏 I'm Avneesh Rai</h1>
