@@ -77,6 +77,15 @@
 ## 🏆 Achievements & Badges
 
 <p align="center">
+  <!-- GitHub Achievements -->
+  <a href="https://github.com/users/avneeshrai07/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" title="Pull Shark Achievement"/>
+  </a>
+  <a href="https://github.com/users/avneeshrai07/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" title="YOLO Achievement"/>
+  </a>
+  <br/>
+  <!-- Holopin & Other Badges -->
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="80px" />
   <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-ducky-crocs-swarm.webp" width="80px" />
   <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="75px" />
@@ -84,6 +93,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avneeshrai07&theme=darkhub&margin-w=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/avneeshrai07/avneeshrai07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
