@@ -97,14 +97,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/avneeshrai07/avneeshrai07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
