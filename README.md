@@ -3,11 +3,7 @@
   <img src="./GIFs/github_banner.png" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">Hello 🙏 I'm Avneesh Rai</h1>
-
-<p align="center">
-  <img src="dist/ocean.gif" width="300px" alt="Ocean Snake" />
-</p>
+<h1 align="center">👋 Welcome to my GitHub — where bugs🐛 turn into features💫</h1>
 
 ---
 
