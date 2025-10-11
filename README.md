@@ -3,7 +3,7 @@
   <img src="./GIFs/github_banner.png" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">👋 Welcome to my GitHub — where bugs🐛 turn into features💫</h1>
+<h1 align="center">👋Welcome to my GitHub — where bugs🐛 turn into features💫</h1>
 
 ---
 
