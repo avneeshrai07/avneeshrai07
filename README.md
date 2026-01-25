@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="./GIFs/github_banner.png" alt="Header" width="100%" />
+  <img src="./GIFs/github_banner_1.png" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">👋Welcome to my GitHub — where bugs🐛 turn into features💫</h1>
