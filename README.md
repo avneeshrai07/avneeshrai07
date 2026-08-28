@@ -56,9 +56,6 @@
 <a href="https://github.com/avneeshrai07">
   <img height="180em" src="https://avneeshgithub-readme-stats.vercel.app/api?username=avneeshrai07&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" />
 </a>
-<a href="https://github.com/avneeshrai07">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshrai07&theme=dark&hide_border=true" />
-</a>
 
 </div>
 
