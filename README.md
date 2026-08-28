@@ -60,57 +60,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshrai07&theme=dark&hide_border=true" />
 </a>
 
-<br/>
-
-<a href="https://github.com/avneeshrai07">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneeshrai07&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Top%20Languages" />
-</a>
-
 </div>
 
 ---
 
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <!-- GitHub Achievements -->
-  <a href="https://github.com/users/avneeshrai07/achievements/pull-shark">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" title="Pull Shark Achievement"/>
-  </a>
-  <a href="https://github.com/users/avneeshrai07/achievements/yolo">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" title="YOLO Achievement"/>
-  </a>
-  <br/>
-  <!-- Holopin & Other Badges -->
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="80px" />
-  <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-ducky-crocs-swarm.webp" width="80px" />
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="75px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avneeshrai07&theme=darkhub&margin-w=15" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avneeshrai07&theme=react-dark&area=true" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/avneeshrai07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/avneeshrai07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ofc.avneesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://avneeshrai07.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
